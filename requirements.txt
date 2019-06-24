@@ -1,0 +1,5 @@
+flask==1.0.2
+pandas==0.24.2
+bokeh
+gunicorn==19.9.0
+alpha_vantage
